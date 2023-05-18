@@ -40,7 +40,8 @@ source venv/Scripts/activate
 python -m pip install --upgrade pip
 pip install -r requirements.txt
 ```
-
+Клонируе проект
+git@github.com:makhotin07/test_m3project.git
 ```
 Запускаем проект:
 ```
